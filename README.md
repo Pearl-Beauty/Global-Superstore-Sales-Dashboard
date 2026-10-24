@@ -5,6 +5,9 @@
 This project analyzes Global Superstore sales data using SQL and Power BI to understand sales performance, profitability, customer behavior, and product trends.
 
 The dashboard presents key business metrics and interactive visualizations to support data-driven decision-making.
+## 📷 Dashboard Preview
+
+![Global Superstore Dashboard](Dashboard_Screenshot.png)
 
 ## 🎯 Objectives
 
